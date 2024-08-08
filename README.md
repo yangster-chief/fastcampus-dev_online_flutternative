@@ -13,18 +13,32 @@
 
 | 챕터 | 강의명                               | 예제 링크                                                                      |
 |------|--------------------------------------|--------------------------------------------------------------------------------|
-| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 서버 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam_server)     |
-| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 예제 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam) |
+| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 서버](https://github.com/yangster-chief/fastcampus_async_cache_exam_server)     |
+| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 예제](https://github.com/yangster-chief/fastcampus_async_cache_exam) |
 
-# Part 2. Flutter 비동기 통신과 캐싱전략
+# Part 3. 상태관리 라이브러리 - BLoC
+
+| 챕터 | 강의명                               | 예제 링크                                                                      |
+|------|--------------------------------------|--------------------------------------------------------------------------------|
+| Ch02   | 실습 : BLoC  | [bloc 스톱워치 예제](https://github.com/yangster-chief/fastcampus_bloc_stopwatch_exam)     |
+| Ch02   | 실습 : BLoC  | [bloc 텍스트 입력 양식 예제](https://github.com/yangster-chief/fastcampus_bloc_text_form_exam) |
+
+# Part 4. 상태관리 라이브러리 - Riverpod
+
+| 챕터 | 강의명                               | 예제 링크                                                                      |
+|------|--------------------------------------|--------------------------------------------------------------------------------|
+| Ch03   | 실습 : Riverpod  | [riverpod 예제](https://github.com/yangster-chief/fastcampus_riverpod_exam)     |
+| Ch03   | 실습 : Riverpod  | [riverpod todo 예제](https://github.com/yangster-chief/fastcampus_riverpod_todo_exam) |
+
+# Part 5. OpenAI API를 이용한 챗봇 만들기
+
+| 챕터 | 강의명                               | 예제 링크                                                                      |
+|------|--------------------------------------|--------------------------------------------------------------------------------|
+| Ch02   | 실습 : 챗봇 만들기  | [chatgpt 앱 코드](https://github.com/yangster-chief/fastcampus_flutter_chat_gpt)     |
+
+# Part 6. Flutter 클린아키텍처
 
 | 챕터 | 강의명                               | 예제 링크                                                                      |
 |------|--------------------------------------|--------------------------------------------------------------------------------|
 | Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 서버 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam_server)     |
 | Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 예제 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam) |
-
-상태관리 라이브러리 - BLoC
-
-bloc 스톱워치 예제 (링크)
-
-bloc 텍스트 입력 양식 예제 (링크)
