@@ -1,4 +1,3 @@
-# fastcampus-flutter-clean-architecture
 
 # Part 1. Flutter UI 심화
 
@@ -40,5 +39,5 @@
 
 | 챕터 | 강의명                               | 예제 링크                                                                      |
 |------|--------------------------------------|--------------------------------------------------------------------------------|
-| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 서버 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam_server)     |
-| Ch02   | 로컬 데이터베이스를 이용한 비동기 통신 캐싱 전략  | [todo 앱 예제 코드](https://github.com/yangster-chief/fastcampus_async_cache_exam) |
+| Ch03   | 클린 아키텍처 실전 적용  | [클린아키텍처 예제](https://github.com/yangster-chief/fastcampus_clean_architecture_exam)     |
+| Ch03   | 클린 아키텍처 실전 적용  | [클린아키텍처 firebase 앱 예제](https://github.com/yangster-chief/fastcampus_firebase_clean_architecture_exam) |
